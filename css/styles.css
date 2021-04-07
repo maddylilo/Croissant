@@ -6,12 +6,36 @@ h1 {
 img {
   max-width: 100%;
   border-radius: 10px;
+  display: block;
+  margin: 0 auto;
 }
 
 a {
   color: blue;
+  display: inline-block;
+}
+
+.about-text {
+  margin: auto 40px;
+  background: #d29228;
+  padding: 12px;
+  border-radius: 10px;
+  color: white;
 }
 
 .contact-text {
+  text-align: center;
+  margin: auto 60px;
+  padding: 12px;
+  background: #d29228;
+  border-radius: 10px;
+  color: white;
+}
+
+.navigation-link {
+  padding: 30px 5px 0px 5px;
+}
+
+.links-group {
   text-align: center;
 }

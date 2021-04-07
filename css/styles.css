@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: #d29228;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+a {
+  color: blue;
+}
+
+.contact-text {
+  text-align: center;
+}
